@@ -39,19 +39,12 @@ Corporate website with admin-managed dynamic content and service pages.
 
 ### 4. Mimar
 
-🔗 [https://mimar.uz](https://mimar.uz)
-Architecture/company website with CMS and SEO-optimized structure.
-
----
-
-### 5. Mimar
-
 🔗 [https://uzbektraveler.com](https://uzbektraveler.com)
 Architecture/company website with CMS and SEO-optimized structure.
 
 ---
 
-### 6. Stanko
+### 5. Stanko
 
 🔗 [https://stanko.shoha-coder.uz](https://stanko.shoha-coder.uz)
 🔗 [https://stanko.uz](https://stanko.uz)
@@ -59,7 +52,7 @@ Industrial company website with structured product presentation.
 
 ---
 
-### 7. Dagciler
+### 6. Dagciler
 
 🔗 [https://dagciler.uz](https://dagciler.uz)
 🔗 [https://dagcilfer.shoha-coder.uz](https://dagcilfer.shoha-coder.uz)
@@ -67,35 +60,35 @@ Industrial company website with structured product presentation.
 
 ---
 
-### 8. Family Doctors
+### 7. Family Doctors
 
 🔗 [https://familydoctorsm.uz](https://familydoctorsm.uz/)
 Industrial company website with structured product presentation.
 
 ---
 
-### 9. Thompson
+### 8. Thompson
 
 🔗 [https://thompson.uz](https://thompson.uz)
 Business landing & corporate management website.
 
 ---
 
-### 10. Formula Market
+### 9. Formula Market
 
 🔗 [https://www.formulamarket.uz](https://www.formulamarket.uz)
 Online marketplace platform with product catalog, filtering, and admin panel.
 
 ---
 
-### 11. Yevroprotokol
+### 10. Yevroprotokol
 
 🔗 [https://www.yevroprotokol.uz](https://www.yevroprotokol.uz)
 Insurance service platform with form submission logic and user workflows.
 
 ---
 
-### 12. VR Arena 48
+### 11. VR Arena 48
 
 🔗 [https://vr-arena48.ru](https://vr-arena48.ru)
 Entertainment center website with booking and information pages.
@@ -104,35 +97,35 @@ Entertainment center website with booking and information pages.
 
 ## 🧪 Staging / Under Production
 
-### 13. Flowers (Second Bloom)
+### 12. Flowers (Second Bloom)
 
 🔗 [https://second-bloom.uz](https://second-bloom.uz)
 E-commerce flower shop with catalog, ordering system, and admin management.
 
 ---
 
-### 14. Oqquza
+### 13. Oqquza
 
 🔗 https://oqquza.shoha-coder.uz
 Corporate website & product showcase.
 
 ---
 
-### 15. RoboKids
+### 14. RoboKids
 
 🔗 https://robokids.shoha-coder.uz
 Educational robotics center website.
 
 ---
 
-### 16. Bank System (internal)
+### 15. Bank System (internal)
 
 Banking service dashboard (not yet public production).
 Includes internal admin panel and workflow logic.
 
 ---
 
-### 17. True-Hire
+### 16. True-Hire
 
 Recruitment platform (in development).
 Includes employer panel, job listings, and application system.
@@ -144,6 +137,7 @@ Includes employer panel, job listings, and application system.
 * Hamma Market + Admin Panel
 * Fitling + Admin
 * Colba
+* Mimar
 
 (These projects are temporarily not available due to hosting or infrastructure changes.)
 
