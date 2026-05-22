@@ -11,7 +11,7 @@ Below are real commercial and internal projects I worked on.
 
 ### 1. EduLab
 
-🔗 https://edulab.ndc.uz
+🔗 [https://edulab.ndc.uz](https://edulab.ndc.uz)
 Test credentials:
 
 ```
@@ -25,92 +25,114 @@ Online education platform with user dashboard, course system, and learning manag
 
 ### 2. TimeEdu
 
-🔗 https://timeedu.uz
+🔗 [https://timeedu.uz](https://timeedu.uz)
 Educational platform and content management system for training centers.
 
 ---
 
 ### 3. Ishonch
 
-🔗 https://ishonch.uz
+🔗 [https://ishonch.uz](https://ishonch.uz)
 Corporate website with admin-managed dynamic content and service pages.
 
 ---
 
 ### 4. Mimar
 
-🔗 https://mimar.uz
+🔗 [https://mimar.uz](https://mimar.uz)
 Architecture/company website with CMS and SEO-optimized structure.
 
 ---
 
-### 5. Thompson
+### 5. Mimar
 
-🔗 https://thompson.uz
+🔗 [https://uzbektraveler.com](https://uzbektraveler.com)
+Architecture/company website with CMS and SEO-optimized structure.
+
+---
+
+### 6. Stanko
+
+🔗 [https://stanko.shoha-coder.uz](https://stanko.shoha-coder.uz)
+🔗 [https://stanko.uz](https://stanko.uz)
+Industrial company website with structured product presentation.
+
+---
+
+### 7. Dagciler
+
+🔗 [https://dagciler.uz](https://dagciler.uz)
+🔗 [https://dagcilfer.shoha-coder.uz](https://dagcilfer.shoha-coder.uz)
+Industrial company website with structured product presentation.
+
+---
+
+### 8. Family Doctors
+
+🔗 [https://familydoctorsm.uz](https://familydoctorsm.uz/)
+Industrial company website with structured product presentation.
+
+---
+
+### 9. Thompson
+
+🔗 [https://thompson.uz](https://thompson.uz)
 Business landing & corporate management website.
 
 ---
 
-### 6. Formula Market
+### 10. Formula Market
 
-🔗 https://www.formulamarket.uz
+🔗 [https://www.formulamarket.uz](https://www.formulamarket.uz)
 Online marketplace platform with product catalog, filtering, and admin panel.
 
 ---
 
-### 7. Yevroprotokol
+### 11. Yevroprotokol
 
-🔗 https://www.yevroprotokol.uz
+🔗 [https://www.yevroprotokol.uz](https://www.yevroprotokol.uz)
 Insurance service platform with form submission logic and user workflows.
 
 ---
 
-### 8. VR Arena 48
+### 12. VR Arena 48
 
-🔗 https://vr-arena48.ru
+🔗 [https://vr-arena48.ru](https://vr-arena48.ru)
 Entertainment center website with booking and information pages.
 
 ---
 
 ## 🧪 Staging / Under Production
 
-### 9. Flowers (Second Bloom)
+### 13. Flowers (Second Bloom)
 
-🔗 https://flowers.shoha-coder.uz
-🔗 https://second-bloom.uz
+🔗 [https://second-bloom.uz](https://second-bloom.uz)
 E-commerce flower shop with catalog, ordering system, and admin management.
 
 ---
 
-### 10. Stanko
-
-🔗 https://stanko.shoha-coder.uz
-Industrial company website with structured product presentation.
-
----
-
-### 11. Oqquza
+### 14. Oqquza
 
 🔗 https://oqquza.shoha-coder.uz
 Corporate website & product showcase.
 
 ---
 
-### 12. RoboKids
+### 15. RoboKids
 
 🔗 https://robokids.shoha-coder.uz
 Educational robotics center website.
 
 ---
 
-### 13. Bank System (internal)
+### 16. Bank System (internal)
 
 Banking service dashboard (not yet public production).
 Includes internal admin panel and workflow logic.
 
 ---
 
-### 14. True-Hire
+### 17. True-Hire
 
 Recruitment platform (in development).
 Includes employer panel, job listings, and application system.
@@ -119,7 +141,6 @@ Includes employer panel, job listings, and application system.
 
 ## ⚠️ Currently Offline / Maintenance
 
-* https://uzbektraveler.com
 * Hamma Market + Admin Panel
 * Fitling + Admin
 * Colba
@@ -133,6 +154,8 @@ Includes employer panel, job listings, and application system.
 Across these systems I worked on:
 
 * Frontend architecture (Next.js / React)
+* Backend architecture (PHP, Python, GoLang)
+* DevOps/Deploy to server
 * Admin panels
 * Authentication & role systems
 * REST API integration
