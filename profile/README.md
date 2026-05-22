@@ -1,7 +1,7 @@
 # 🧑‍💻 Shohruhxon Iskandar o'g'li — Project Portfolio
 
 Full-stack developer focused on modern web applications, dashboards, and scalable business platforms.
-Main stack: **Next.js, React, TypeScript, Node.js, REST APIs, Admin Panels, SSR/CSR architectures.**
+Main stack: **Next.js, React, TypeScript, Node.js, Python, GoLang, PHP, REST APIs, Admin Panels, SSR/CSR architectures.**
 
 Below are real commercial and internal projects I worked on.
 
